@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511296055313",
+    "project_id": "book-of-king-arthur",
+    "storage_bucket": "book-of-king-arthur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511296055313:android:848335f934ee440e9e29b0",
+        "android_client_info": {
+          "package_name": "com.book.of.king.arthur.boolofkingarthur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511296055313-ao17g4f1kavo3sgjs132iapemef950so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt6qt0QYC41yy-_bFM79zxUV2k3KfzZBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511296055313-ao17g4f1kavo3sgjs132iapemef950so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/arthyr"
+    tools:context=".fragment.bookgame"
+    android:background="@drawable/king"
+    android:animateLayoutChanges="true"
+    android:transitionGroup="true"
+    >
+    <ImageView
+        android:id="@+id/gfafdghfgsggdsdfdsres"
+        android:layout_width="@dimen/dshjkflerahjfdfsad"
+        android:layout_height="@dimen/dshjkflerahjfdfsad"
+        android:layout_marginBottom="@dimen/gfsdasjkglgfgdskfjhd"
+        android:src="@drawable/book"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/hgfdsrgdthgnfbfdsv"
+        android:layout_width="@dimen/dshjkflerahjfdfsad"
+        android:layout_height="@dimen/dshjkflerahjfdfsad"
+        android:layout_marginBottom="@dimen/gfsdasjkglgfgdskfjhd"
+        android:src="@drawable/book"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/kmjhngbfvdsgdnhbfd"
+        app:layout_constraintStart_toEndOf="@+id/ghfgjhdgffbfdgfbfsfb" />
+
+    <ImageView
+        android:id="@+id/hngbfddfgnbdfbgfhgfcb"
+        android:layout_width="@dimen/dshjkflerahjfdfsad"
+        android:layout_height="@dimen/dshjkflerahjfdfsad"
+        android:layout_marginBottom="@dimen/gfsdasjkglgfgdskfjhd"
+        android:src="@drawable/book"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <ImageView
+        android:id="@+id/ghfgjhdgffbfdgfbfsfb"
+        android:layout_width="@dimen/dshjkflerahjfdfsad"
+        android:layout_height="@dimen/dshjkflerahjfdfsad"
+        android:layout_marginBottom="@dimen/gfsdasjkglgfgdskfjhd"
+        android:src="@drawable/book"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/jhgfdsxjhgnbdfgfdgb"
+        android:layout_width="@dimen/dshjkflerahjfdfsad"
+        android:layout_height="@dimen/dshjkflerahjfdfsad"
+        android:layout_marginBottom="@dimen/gfsdasjkglgfgdskfjhd"
+        android:src="@drawable/book"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/kmjhngbfvdsgdnhbfd"
+        app:layout_constraintStart_toEndOf="@+id/ghfgjhdgffbfdgfbfsfb" />
+
+    <ImageView
+        android:id="@+id/kmjhngbfvdsgdnhbfd"
+        android:layout_width="@dimen/dshjkflerahjfdfsad"
+        android:layout_height="@dimen/dshjkflerahjfdfsad"
+        android:layout_marginBottom="@dimen/gfsdasjkglgfgdskfjhd"
+        android:src="@drawable/book"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <ImageView
+        android:id="@+id/ghfddgtthyknbvfdgdf"
+        android:layout_width="@dimen/dshjkflerahjfdfsad"
+        android:layout_height="@dimen/dshjkflerahjfdfsad"
+        android:layout_marginBottom="@dimen/gfsdasjkglgfgdskfjhd"
+        android:src="@drawable/book"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/kmjhngbfvdsgdnhbfd"
+        app:layout_constraintStart_toEndOf="@+id/ghfgjhdgffbfdgfbfsfb" />
+
+    <ImageView
+        android:id="@+id/kjhgfedfrgthygjjhgfd"
+        android:layout_width="@dimen/dshjkflerahjfdfsad"
+        android:layout_height="@dimen/dshjkflerahjfdfsad"
+        android:layout_marginBottom="@dimen/gfsdasjkglgfgdskfjhd"
+        android:src="@drawable/book"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/kmjhngbfvdsgdnhbfd"
+        app:layout_constraintStart_toEndOf="@+id/ghfgjhdgffbfdgfbfsfb" />
+
+    <ImageView
+        android:id="@+id/mhgnbfvdghghjkhmgndfcvfg"
+        android:layout_width="@dimen/fldskjcndsklclafkvjsdf"
+        android:layout_height="@dimen/fldskjcndsklclafkvjsdf"
+        android:src="@drawable/blank"
+        android:visibility="gone"
+        app:layout_constraintBottom_toTopOf="@+id/ghfgjhdgffbfdgfbfsfb"
+        app:layout_constraintEnd_toEndOf="@+id/ghfgjhdgffbfdgfbfsfb"
+        app:layout_constraintStart_toStartOf="@+id/ghfgjhdgffbfdgfbfsfb" />
+
+    <ImageView
+        android:id="@+id/kjhgfdgfhgjhmngbffgfdgfhndgb"
+        android:layout_width="@dimen/fldskjcndsklclafkvjsdf"
+        android:layout_height="@dimen/fldskjcndsklclafkvjsdf"
+        android:src="@drawable/blank"
+        android:visibility="gone"
+        app:layout_constraintBottom_toTopOf="@+id/jhgfdsxjhgnbdfgfdgb"
+        app:layout_constraintEnd_toEndOf="@+id/jhgfdsxjhgnbdfgfdgb"
+        app:layout_constraintStart_toStartOf="@+id/jhgfdsxjhgnbdfgfdgb" />
+
+    <ImageView
+        android:id="@+id/ghmjfgdfhbnghcjygfgb"
+        android:layout_width="@dimen/fldskjcndsklclafkvjsdf"
+        android:layout_height="@dimen/fldskjcndsklclafkvjsdf"
+        android:src="@drawable/blank"
+        android:visibility="gone"
+        app:layout_constraintBottom_toTopOf="@+id/kmjhngbfvdsgdnhbfd"
+        app:layout_constraintEnd_toEndOf="@+id/kmjhngbfvdsgdnhbfd"
+        app:layout_constraintStart_toStartOf="@+id/kmjhngbfvdsgdnhbfd" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/kjmhvgncbfvdsfghfgjmhfndbsf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="136dp"
+        android:background="@drawable/stylebutton"
+        android:padding="@dimen/fldskjcndsklclafkvjsdf"
+        android:text="@string/gamestart"
+        android:textAllCaps="false"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/jfdssfgnhfdbgdgfhbc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/dp12"
+        android:layout_marginEnd="@dimen/dp12"
+        android:background="@drawable/stylebutton"
+        android:padding="@dimen/fldskjcndsklclafkvjsdf"
+        android:text="@string/book"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="@dimen/sfdaskjfldsfasd"
+        android:textStyle="bold"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

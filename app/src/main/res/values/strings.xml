@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">History of King Arthur</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fb">1856195981395035</string>
+    <string name="fbclient">c68a98efde18f86b6915e85762f30e5f</string>
+    <string name="scheme">fb1856195981395035</string>
+    <string name="gamestart">GO</string>
+    <string name="book">Choose a book!</string>
+    <string name="yeah">YEAH!</string>
+    <string name="xyi">Lose</string>
+    <string name="goeshe">Repeat</string>
+    <string name="game1">Game №1</string>
+    <string name="game2">Game №2</string>
+    <string name="game3">Game №3</string>
+    <string name="game4">Game №4</string>
+    <string name="menu">GAME MENU</string>
+    <string name="txtgame">Find similar ones!</string>
+    <string name="king">What century did King Arthur live in?</string>
+    <string name="king1">Who did King Arthur fight against?</string>
+    <string name="otvet">in the 5th-6th century.</string>
+    <string name="otvet1">in the 4th-5th century.</string>
+    <string name="otvet2">in the 6th-7th century.</string>
+    <string name="otvet3">in the 7th-8th century.</string>
+    <string name="otvet4">in the 8th-9th century.</string>
+    <string name="kingo1">Against the Anglo-Saxon conquerors.</string>
+    <string name="kingo2">Against the Norwegian Danes.</string>
+    <string name="kingo3">Against the Romans.</string>
+    <string name="loadings">Loading</string>
+
+
+
+
+
+</resources>
